@@ -28,6 +28,8 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Year 2026
 
+- **[arXiv 2026]** GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geospatial Analysis Across Frontier and Open-Weight Foundation Models [[pdf]](https://arxiv.org/pdf/2606.12821) [[code]](https://github.com/gabrielireland/GeoNatureAgent_Benchmark)
+
 - **[arXiv 2026]** GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis [[pdf]](https://arxiv.org/pdf/2604.13888) [[code]](https://github.com/geox-lab/GABench)
 
 - **[ICSE 2026]** GeoAIAgent-Agentic workflow for automated geospatial data management [[pdf]](https://research.ibm.com/publications/geoaiagent-agentic-workflow-for-automated-geospatial-data-management) 
@@ -162,6 +164,7 @@ goal-directed city navigation without instructions [[pdf]](https://arxiv.org/pdf
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
+| GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geospatial Analysis Across Frontier and Open-Weight Foundation Models | arXiv | 2026 | [pdf](https://arxiv.org/pdf/2606.12821) | [code](https://github.com/gabrielireland/GeoNatureAgent_Benchmark) |
 | GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis | arXiv | 2026 | [pdf](https://arxiv.org/pdf/2604.13888) | [code](https://github.com/geox-lab/GABench) |
 | Bridging natural language and GIS: a multi-agent framework for LLM-driven autonomous geospatial analysis | International Journal of Digital Earth | 2026 | [pdf](https://www.tandfonline.com/doi/full/10.1080/17538947.2026.2633849#abstract) | - |
 | GeoAgent: a hierarchical LLM-based multi-agent architecture for autonomous spatial analysis | International Journal of GIS | 2026 | [pdf](https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2624784?scroll=top&needAccess=true) | - |
