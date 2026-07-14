@@ -58,7 +58,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - **[arXiv 2025]** Agentic UAVs: LLM-Driven Autonomy with Integrated Tool-Calling and Cognitive Reasoning [[pdf]](https://arxiv.org/pdf/2509.13352)
 
-- **[arXiv 2025]** RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning [[pdf]](https://arxiv.org/pdf/2507.20776)
 
 - **[arXiv 2025]** Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response
 [[pdf]](https://arxiv.org/pdf/2510.12061)
@@ -204,7 +203,6 @@ goal-directed city navigation without instructions [[pdf]](https://arxiv.org/pdf
 | VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2511.20085) | - |
 | Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.23141) | [code](https://github.com/opendatalab/Earth-Agent) |
 | MineAgent: Towards Remote-Sensing Mineral Exploration with Multimodal Large Language Models | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2412.17339) | - |
-| RingMo-Agent: A Unified Remote Sensing Foundation Model for Multi-Platform and Multi-Modal Reasoning | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2507.20776) | - |
 | Multi-Agent Geospatial Copilots for Remote Sensing Workflows | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2501.16254) | - |
 
 
