@@ -54,7 +54,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - **[International Journal of Applied Earth Observation and Geoinformation]** GeoGraphRAG: A graph-based retrieval-augmented generation approach for empowering large language models in automated geospatial modeling [[pdf]](https://www.sciencedirect.com/science/article/pii/S1569843225003590)
 
-- **[International Journal of Applied Earth Observation and Geoinformation]** GeoCode-GPT: A large language model for geospatial code generation [[pdf]](https://www.sciencedirect.com/science/article/pii/S1569843225001037)
 
 - **[arXiv 2025]** Agentic UAVs: LLM-Driven Autonomy with Integrated Tool-Calling and Cognitive Reasoning [[pdf]](https://arxiv.org/pdf/2509.13352)
 
@@ -62,7 +61,6 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 - **[arXiv 2025]** Empowering LLM Agents with Geospatial Awareness: Toward Grounded Reasoning for Wildfire Response
 [[pdf]](https://arxiv.org/pdf/2510.12061)
 
-- **[arXiv 2025]** MineAgent: Towards remote-sensing mineral exploration with multimodal large language models [[pdf]](https://arxiv.org/pdf/2412.17339)
 
 - **[EMNLP 2025]** STA-CoT: Structured Target-Centric Agentic Chain-of-Thought for Consistent Multi-Image Geological Reasoning [[pdf]](https://aclanthology.org/anthology-files/pdf/findings/2025.findings-emnlp.1386.pdf)
 
@@ -181,7 +179,6 @@ goal-directed city navigation without instructions [[pdf]](https://arxiv.org/pdf
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
-| GeoCode-GPT: A Large Language Model for Geospatial Code Generation | International Journal of Applied Earth Observation and Geoinformation | 2025 | [pdf](https://www.sciencedirect.com/science/article/pii/S1569843225001037) | - |
 | GeoGraphRAG: A Graph-based Retrieval-Augmented Generation Approach for Empowering Large Language Models in Automated Geospatial Modeling | International Journal of Applied Earth Observation and Geoinformation | 2025 | [pdf](https://www.sciencedirect.com/science/article/pii/S1569843225003590) | - |
 | GIS Copilot: Towards an Autonomous GIS Agent for Spatial Analysis | International Journal of Digital Earth | 2025 | [pdf](https://www.tandfonline.com/doi/pdf/10.1080/17538947.2025.2497489) | [code](https://shorturl.at/vRcm6) |
 | GeoCogent: An LLM-Based Agent for Geospatial Code Generation | International Journal of GIS | 2025 | [pdf](https://www.researchgate.net/profile/Shuyang-Hou/publication/394842371) | - |
@@ -202,7 +199,6 @@ goal-directed city navigation without instructions [[pdf]](https://arxiv.org/pdf
 | GeoLLM-Engine: A Realistic Environment for Building Geospatial Copilots | CVPR Workshop | 2024 | [pdf](https://openaccess.thecvf.com/content/CVPR2024W/EarthVision/papers/Singh_GeoLLM-Engine) | - |
 | VICoT-Agent: A Vision-Interleaved Chain-of-Thought Framework for Interpretable Multimodal Reasoning and Scalable Remote Sensing Analysis | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2511.20085) | - |
 | Earth-Agent: Unlocking the Full Landscape of Earth Observation with Agents | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2509.23141) | [code](https://github.com/opendatalab/Earth-Agent) |
-| MineAgent: Towards Remote-Sensing Mineral Exploration with Multimodal Large Language Models | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2412.17339) | - |
 | Multi-Agent Geospatial Copilots for Remote Sensing Workflows | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2501.16254) | - |
 
 
