@@ -1,4 +1,4 @@
-# Awesome Agentic AI for Spatio-Temporal Data
+# Awesome Agentic AI for Geospatial Data
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/mohammadhashemii/awesome-agentic-AI-for-ST?color=yellow)
 
@@ -6,7 +6,7 @@
 This repository provides a curated list of research papers and resources related to **Agentic AI for Geospatial Data**. The collection covers works on geospatial analysis, remote sensing and Earth observation, urban planning, mobility and transportation, and spatio-temporal decision support. Agentic AI refers to artificial intelligence systems that can autonomously reason, plan, and act over spatial and temporal environments, often leveraging large language models, multi-agent architectures, external tool use, and domain-specific knowledge sources.
 
 
-<div align=center><img src="https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data/blob/main/figs/ecosystem.png" width="500"/></div>
+<div align=center><img src="https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data/blob/main/figs/ecosystem.png"/></div>
 
 We will try to keep this list updated. If you find any errors or any missing paper, please don't hesitate to open issues or pull requests.
 s
