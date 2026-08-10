@@ -3,10 +3,10 @@
 ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) ![Stars](https://img.shields.io/github/stars/mohammadhashemii/awesome-agentic-AI-for-ST?color=yellow)
 
 
-This repository provides a curated list of research papers and resources related to **agentic AI in spatio-temporal**. The collection covers works on geospatial analysis, remote sensing and Earth observation, urban planning, mobility and transportation, and spatio-temporal decision support. Agentic AI refers to artificial intelligence systems that can autonomously reason, plan, and act over spatial and temporal environments, often leveraging large language models, multi-agent architectures, external tool use, and domain-specific knowledge sources.
+This repository provides a curated list of research papers and resources related to **Agentic AI for Geospatial Data**. The collection covers works on geospatial analysis, remote sensing and Earth observation, urban planning, mobility and transportation, and spatio-temporal decision support. Agentic AI refers to artificial intelligence systems that can autonomously reason, plan, and act over spatial and temporal environments, often leveraging large language models, multi-agent architectures, external tool use, and domain-specific knowledge sources.
 
 
-<div align=center><img src="https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST/blob/main/figs/agentic.png" width="500"/></div>
+<div align=center><img src="https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data/blob/main/figs/ecosystem.png" width="500"/></div>
 
 We will try to keep this list updated. If you find any errors or any missing paper, please don't hesitate to open issues or pull requests.
 s
@@ -14,7 +14,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ```
 @article{hashemi2026agentic,
-  title   = {A Comprehensive Survey of Agentic AI for Spatio-Temporal Data},
+  title   = {A Comprehensive Survey of Agentic AI for Geospatial Data},
   author  = {Hashemi, Mohammad and Z{\"u}fle, Andreas},
   journal = {Preprints},
   volume  = {2026},
