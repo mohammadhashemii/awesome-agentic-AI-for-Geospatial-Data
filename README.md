@@ -28,6 +28,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 ### Year 2026
 
+- **[arXiv 2026]** GeoForge: Non-Parametric Self-Evolving Agents for Earth-Observation Reasoning [[pdf]](https://arxiv.org/pdf/2608.10494) 
 - **[arXiv 2026]** GeoNatureAgent Benchmark: Benchmarking LLM Agents for Environmental Geospatial Analysis Across Frontier and Open-Weight Foundation Models [[pdf]](https://arxiv.org/pdf/2606.12821) [[code]](https://github.com/gabrielireland/GeoNatureAgent_Benchmark)
 
 - **[arXiv 2026]** GeoAgentBench: A Dynamic Execution Benchmark for Tool-Augmented Agents in Spatial Analysis [[pdf]](https://arxiv.org/pdf/2604.13888) [[code]](https://github.com/geox-lab/GABench)
@@ -193,6 +194,7 @@ goal-directed city navigation without instructions [[pdf]](https://arxiv.org/pdf
 
 | Title | Venue | Year | Paper | Code |
 |------|-------|------|-------|------|
+| GeoForge: Non-Parametric Self-Evolving Agents for Earth-Observation Reasoning | arXiv | 2026 | [pdf](https://arxiv.org/pdf/2608.10494) | - |
 | Agentic AI in Remote Sensing: Foundations, Taxonomy, and Emerging Systems | arXiv | 2026 | [pdf](https://arxiv.org/pdf/2601.01891) | - |
 | RS-Agent: Automating Remote Sensing Tasks through Intelligent Agent | arXiv | 2024 | [pdf](https://arxiv.org/pdf/2406.07089) | [code](https://github.com/IntelliSensing/RS-Agent) |
 | ThinkGeo: Evaluating Tool-Augmented Agents for Remote Sensing Tasks | arXiv | 2025 | [pdf](https://arxiv.org/pdf/2505.23752) | [code](https://github.com/mbzuai-oryx/ThinkGeo) |
