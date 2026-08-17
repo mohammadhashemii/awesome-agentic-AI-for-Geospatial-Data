@@ -39,7 +39,7 @@ If you find this repo helpful, we would appreciate it if you could cite our surv
 
 - **[International Journal of GIS]** GeoAgent: a hierarchical LLM-based multi-agent architecture for autonomous spatial analysis [[pdf]](https://www.tandfonline.com/doi/full/10.1080/13658816.2026.2624784?scroll=top&needAccess=true)
 
-- **![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369) [arXiv 2026] A Comprehensive Survey of Agentic AI for Spatio-Temporal Data** [[pdf]](https://www.preprints.org/manuscript/202601.2236) [[paper list]](https://github.com/mohammadhashemii/awesome-agentic-AI-for-ST)
+- **![image](https://github.com/CurryTang/Towards-Graph-Foundation-Models-New-perspective-/assets/15672123/89a23a37-71d4-47f7-8949-7d859a41e369) [arXiv 2026] A Comprehensive Survey of Agentic AI for Geospatial Data** [[pdf]](https://www.preprints.org/manuscript/202601.2236) [[paper list]](https://github.com/mohammadhashemii/awesome-agentic-AI-for-Geospatial-Data)
 
 - **[arXiv 2026]** STReasoner: Empowering LLMs for Spatio-Temporal Reasoning in Time Series via Spatial-Aware Reinforcement Learning [[pdf]](https://arxiv.org/pdf/2601.03248) [[code]](https://github.com/LingFengGold/STReasoner)
 
